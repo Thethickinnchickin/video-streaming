@@ -13,8 +13,5 @@
   head: {
       title: "Home"
     },
-
-
-
   }
   </script>
